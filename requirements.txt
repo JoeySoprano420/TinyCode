@@ -1,0 +1,30 @@
+# General purpose libraries
+numpy==1.24.3
+pandas==2.0.3
+
+# Libraries for managing datasets
+h5py==3.8.0
+pyyaml==6.0
+
+# Libraries for code handling and execution
+pytest==7.4.0
+flake8==6.0.0
+black==23.3.0
+
+# Libraries for interfacing with Fortran and C++ code
+pyfort==1.4.1
+boost-cpp==1.81.0
+
+# Libraries for JIT compilation
+numba==0.57.0
+
+# Optional: if using visualization tools for debugging
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Optional: if using virtual environments or containerization
+virtualenv==20.22.0
+docker==6.3.0
+
+# Additional utilities
+requests==2.31.0
